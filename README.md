@@ -2,6 +2,8 @@
 
 An interactive **data analytics dashboard** built using **Streamlit** to explore and visualize Uber ride data. This project focuses on uncovering insights like ride patterns, peak hours, and demand trends.
 
+👉 [Click here to view the app](https://uberanalyticsproject-fdkkpkgthjad7tyuztqony.streamlit.app)
+
 ---
 
 ## 📌 Project Overview
@@ -65,12 +67,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🌐 Live Demo
-
-👉 [Click here to view the app](https://uberanalyticsproject-fdkkpkgthjad7tyuztqony.streamlit.app)
 
 ---
 
